@@ -16,7 +16,7 @@
 
 - 📫 You can write me **ahmadkhan03122006@gmail.com**
 
-- 📄 You can grab its source on [https://github.com/SandWichEater9211/Sandwich-Kernel](https://github.com/SandWichEater9211/Sandwich-Kernel)
+- 📄 You can grab its code on [https://github.com/SandWichEater9211/Sandwich-Kernel](https://github.com/SandWichEater9211/Sandwich-Kernel)
 
 <h3 align="left">* Connect with me: http://t.me/ahmadk006</h3>
 <p align="left">
