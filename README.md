@@ -1,12 +1,12 @@
 ![MasterHead](https://www.andromedacomputer.net/images/WEBptodoloexterno/BANNERGnulinuxrocks.webp)
 <h1 align="center">Hi 👋, I am Ahmad Khan</h1>
-<h3 align="center">I am a first year CS student</h3>
+<h3 align="center">I am a CS student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadkhan006&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadkhan006" /> </p>
 
 - 🔭 I’m currently working on [Android Developement](https://forum.xda-developers.com/t/kernel-aosp-sandwich-kernel-for-j700f-h-m.4437003/)
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently pursuing **Computer Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SandWichEater9211](https://github.com/SandWichEater9211)
 
