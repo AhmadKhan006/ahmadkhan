@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadkhan006&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadkhan006" /> </p>
 
-- 🔭 I’m currently working on [Android Development](https://forum.xda-developers.com/t/kernel-aosp-sandwich-kernel-for-j700f-h-m.4437003/)
+- I’m currently working on [Android Development](https://forum.xda-developers.com/t/kernel-aosp-sandwich-kernel-for-j700f-h-m.4437003/)
 
 - I’m currently pursuing **Computer Science**
 
@@ -16,11 +16,11 @@
 
 - I release my kernel updates on [https://forum.xda-developers.com/t/kernel-aosp-sandwich-kernel-for-j700f-h-m.4437003/](https://forum.xda-developers.com/t/kernel-aosp-sandwich-kernel-for-j700f-h-m.4437003/)
 
-- 💬 Ask me about **Android , C, Linux, Git & Github**
+- Ask me about **Android , C, Linux, Git & Github**
 
 - You can write me **ahmadkhan03122006@gmail.com**
 
-- 📄 You can grab its code on [https://github.com/SandWichEater9211/Sandwich-Kernel](https://github.com/SandWichEater9211/Sandwich-Kernel)
+- You can grab its code on [https://github.com/SandWichEater9211/Sandwich-Kernel](https://github.com/SandWichEater9211/Sandwich-Kernel)
 
 <h3 align="left">* Connect with me: http://t.me/ahmadk006</h3>
 <p align="left">
