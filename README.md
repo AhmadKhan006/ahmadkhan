@@ -1,6 +1,6 @@
 <h1>
   <div style="text-align: center;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAfpbfr2NztE2z4j9M_6-xs-Xmje4JYTXhcpa2fLlkhA&usqp=CAU&ec=48665701" alt="Start">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAfpbfr2NztE2z4j9M_6-xs-Xmje4JYTXhcpa2fLlkhA&usqp=CAU&ec=48665701" alt="Start" height="214" width="626">
   </div>
 </h1>
 <h2 align="center">Hi 👋, I'm Ahmad Khan</h2>
