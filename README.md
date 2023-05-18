@@ -3,22 +3,22 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAfpbfr2NztE2z4j9M_6-xs-Xmje4JYTXhcpa2fLlkhA&usqp=CAU&ec=48665701" alt="Start" height="214" width="626">
   </center></div>
 </h1>
-<h2 align="center">Hi 👋, I'm Ahmad Khan</h2>
+<h2 align="center">Hi There!, I am Ahmad Khan</h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadkhan006&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadkhan006" /> </p>
 
 - 🔭 I’m currently working on [Android Development](https://forum.xda-developers.com/t/kernel-aosp-sandwich-kernel-for-j700f-h-m.4437003/)
 
-- 🌱 I’m currently pursuing **Computer Science**
+- I’m currently pursuing **Computer Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SandWichEater9211](https://github.com/SandWichEater9211)
+- All of my projects are available at [https://github.com/SandWichEater9211](https://github.com/SandWichEater9211)
 
-- 📝 I release my kernel updates on [https://forum.xda-developers.com/t/kernel-aosp-sandwich-kernel-for-j700f-h-m.4437003/](https://forum.xda-developers.com/t/kernel-aosp-sandwich-kernel-for-j700f-h-m.4437003/)
+- I release my kernel updates on [https://forum.xda-developers.com/t/kernel-aosp-sandwich-kernel-for-j700f-h-m.4437003/](https://forum.xda-developers.com/t/kernel-aosp-sandwich-kernel-for-j700f-h-m.4437003/)
 
 - 💬 Ask me about **Android , C, Linux, Git & Github**
 
-- 📫 You can write me **ahmadkhan03122006@gmail.com**
+- You can write me **ahmadkhan03122006@gmail.com**
 
 - 📄 You can grab its code on [https://github.com/SandWichEater9211/Sandwich-Kernel](https://github.com/SandWichEater9211/Sandwich-Kernel)
 
