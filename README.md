@@ -1,5 +1,9 @@
-![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAfpbfr2NztE2z4j9M_6-xs-Xmje4JYTXhcpa2fLlkhA&usqp=CAU&ec=48665701])
-<h1 align="center">Hi 👋, I'm Ahmad Khan</h1>
+<h1>
+  <div style="text-align: center;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAfpbfr2NztE2z4j9M_6-xs-Xmje4JYTXhcpa2fLlkhA&usqp=CAU&ec=48665701" alt="Start">
+  </div>
+</h1>
+<h2 align="center">Hi 👋, I'm Ahmad Khan</h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadkhan006&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadkhan006" /> </p>
