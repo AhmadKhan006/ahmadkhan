@@ -1,4 +1,4 @@
-![MasterHead](https://www.andromedacomputer.net/images/WEBptodoloexterno/BANNERGnulinuxrocks.webp)
+![MasterHead](https://www.andromedacomputer.net/images/WEBptodoloexterno/BANNERGnulinuxrocks.webp](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAfpbfr2NztE2z4j9M_6-xs-Xmje4JYTXhcpa2fLlkhA&usqp=CAU&ec=48665701)
 <h1 align="center">Hi 👋, I'm Ahmad Khan</h1>
 
 
