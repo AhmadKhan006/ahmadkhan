@@ -10,7 +10,7 @@
 
 - I’m currently working on [Android Development](https://forum.xda-developers.com/t/kernel-aosp-sandwich-kernel-for-j700f-h-m.4437003/)
 
-- I’m currently pursuing **Computer Science**
+- I’m currently pursuing **Computer Engineering**
 
 - All of my projects are available at [https://github.com/SandWichEater9211](https://github.com/SandWichEater9211)
 
