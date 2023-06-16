@@ -3,7 +3,7 @@
     <img src="https://media.istockphoto.com/id/1225512206/vector/welcome-colorful-typography-banner.jpg?s=612x612&w=0&k=20&c=F7YQTrBDwuRFBf4aWPhVbiM3I5SCN_KCVS0__ucmoMc=" alt="Header Image">
   </div>
 </h1>
-<h2 align="center">Hi There!, I am Ahmad Khan</h2>
+<h2 align="center">I am Ahmad Khan</h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadkhan006&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadkhan006" /> </p>
