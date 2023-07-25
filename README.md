@@ -7,10 +7,6 @@
 
 - I’m currently working on [Android Development](https://forum.xda-developers.com/t/kernel-aosp-sandwich-kernel-for-j700f-h-m.4437003/)
 
-
-
-- All of my projects are available at [https://github.com/SandWichEater9211](https://github.com/SandWichEater9211)
-
 - I release my kernel updates on [https://forum.xda-developers.com/t/kernel-aosp-sandwich-kernel-for-j700f-h-m.4437003/](https://forum.xda-developers.com/t/kernel-aosp-sandwich-kernel-for-j700f-h-m.4437003/)
 
 - Ask me about **Android , C, Linux, Git & Github**
