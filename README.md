@@ -1,8 +1,3 @@
-<h1>
-  <div align="center">
-    <img src="https://media.istockphoto.com/id/1225512206/vector/welcome-colorful-typography-banner.jpg?s=612x612&w=0&k=20&c=F7YQTrBDwuRFBf4aWPhVbiM3I5SCN_KCVS0__ucmoMc=" alt="Header Image">
-  </div>
-</h1>
 <h1 align="center">This is, Ahmad Khan</h1>
 <h3 align="center">A Computer Technologist, aspiring to be better</h3>
 
