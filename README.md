@@ -1,8 +1,6 @@
 <h1 align="center">This is, Ahmad Khan</h1>
 <h3 align="center">Trying to be better</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadkhan006&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadkhan006" /> </p>
-
 - I’m currently studying **Computer Engineering**
 - Interested in **GNU/Linux, AOSP, C/C++ programming**
 - Can contact me at, **github.ahmadkhan@gmail.com**
