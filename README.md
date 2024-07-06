@@ -2,7 +2,7 @@
 <h3 align="center">Trying to be better</h3>
 
 - I’m currently studying **Computer Engineering**
-- Interested in **GNU/Linux, AOSP, C/C++ programming**
+- Interested in **GNU/Linux, AOSP**
 - Can contact me at, **github.ahmadkhan@gmail.com**
 
 **Tech Stack**:-
