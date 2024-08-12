@@ -2,9 +2,11 @@
 <h3 align="center">Trying to be better</h3>
 
 <p align="center"
+<a
 - I’m currently studying **Computer Engineering**
 - Interested in **GNU/Linux, AOSP**
 - Can contact me at, **github.ahmadkhan@gmail.com**
+</a>
 </p>
   
 
