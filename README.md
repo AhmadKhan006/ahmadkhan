@@ -9,8 +9,8 @@
   
 
 <p align="center">
-  **Tech Stack**:-
-  <a href="https://skillicons.dev">
+  <a **Tech Stack**:-
+    href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,cpp,git,github,html,java,linux,mysql,python" />
   </a>
 </p>
