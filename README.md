@@ -1,7 +1,7 @@
 <h1 align="left">This is, Ahmad Khan</h1>
 <h3 align="left">Trying to be better</h3>
 
-- I’m currently studying **Computer Engineering**
+- I’m currently studying **Computer Science Engineering**
 - Interested in **GNU/Linux, AOSP**
 - Can contact me at, **github.ahmadkhan@gmail.com**
 
