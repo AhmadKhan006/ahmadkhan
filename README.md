@@ -9,6 +9,6 @@
 **Tech Stack**:-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,git,github,html,java,linux,mysql,python" />
+    <img src="https://skillicons.dev/icons?i=cpp,git,html,java,linux,mysql,python" />
   </a>
 </p>
