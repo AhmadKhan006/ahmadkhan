@@ -3,7 +3,6 @@
 
 - I’m currently studying **Computer Science Engineering**
 - Interested in **GNU/Linux, AOSP**
-- Can contact me at, **github.ahmadkhan@gmail.com**
 
   
 **Tech Stack**:-
