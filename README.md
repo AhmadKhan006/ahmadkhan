@@ -1,5 +1,4 @@
-<h1 align="left">This is, Ahmad Khan</h1>
-<h3 align="left">Trying to be better</h3>
+<h1 align="left">Trying to be better</h1>
 
 - Computer Student
 - Interested in **GNU/Linux, AOSP**
